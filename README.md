@@ -1,8 +1,4 @@
-#Password-Generator
-
-* [Introduction](#Intro)
-* [User Story](#User Story)
-* [Acceptance Criteria](#Acceptance Criteria)
+# Password-Generator
 
 ## Intro
 The scope of this project is to use JavaScript to create a simple program for generating passwords from random characters.
