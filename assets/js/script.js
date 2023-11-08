@@ -1,10 +1,10 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-//Creating password object.
+//Create passsword element 
 var pwdCriteria = {
 
-  //Property for length of password
+  //Password length property
   pwdLength: 0,
 
   //array to hold lowercase letters
@@ -20,7 +20,7 @@ var pwdCriteria = {
 
   //array to hold special characters
   pwdCharacter: ["!", "\"", "#", "$", "%", "&", "\'", "*", "+",
-    "-", ".", "/", "\\", "<", ">", "=", "?", "@", "[", "]", "^", "_", "`", "{", "}", "|", "~"]//25 symbols
+    "-", ".", "/", "\\", "<", ">", "=", "?", "@", "[", "]", "^", "`", "{", "}", "|", "~"]//24 symbols
 }
 
 // Write password to the #password input on index.html
