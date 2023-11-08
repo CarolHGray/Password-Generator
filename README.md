@@ -1,8 +1,8 @@
 #Password-Generator
 
 * [Introduction](#Intro)
-* [Installation](#Installation)
-* [Start](#start)
+* [User Story](#User Story)
+* [Acceptance Criteria](#Acceptance Criteria)
 
 ## Intro
 The scope of this project is to use JavaScript to create a simple program for generating passwords from random characters.
@@ -31,7 +31,7 @@ THEN the password is either displayed in an alert or written to the page.
 
 ```
 	
-## start
+## Get Started!
 To run this project, run the main file.
 This page should appear:
 
