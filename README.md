@@ -24,14 +24,12 @@ The scope of this project is to use JavaScript to create a simple program for ge
 - THEN a password is generated that matches the selected criteria
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page.
-
-```
 	
 ## Get Started!
 To run this project, run the main file.
 This page should appear:
 
-![image](assets/images/Screenshot 2023-11-08 at 1.47.09 PM.png)
+![image](assets/images/ScreenshotPassGen.png)
 
 
 
